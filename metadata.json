@@ -1,0 +1,6 @@
+{
+  "name": "Astilla-tion: Kinetic Sandbox",
+  "description": "Particle Life 2D kinetic sandbox simulation with emergent multi-species physics, customizable attraction matrices, and presets by Astilla Softwares",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Astilla-tion: Kinetic Sandbox</string>
+    <string name="app_title">Astilla-tion</string>
+    <string name="app_subtitle">Kinetic Sandbox</string>
+    <string name="developer_credit">Astilla Softwares</string>
+    <string name="app_version">v1.0.0</string>
+</resources>
